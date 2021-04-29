@@ -22,6 +22,7 @@ sftp2db project
 1. 根据实际项目需求调整com.adidas.sftp.service.impl.SftpServiceImpl中的文件读写逻辑
 1. 发版程序
 1. 调用示例
+
 ``
 curl --location --request GET 'http://localhost:8080/auth-data-init/init?remotePath=/member/infos'
 ``
