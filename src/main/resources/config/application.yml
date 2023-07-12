@@ -9,9 +9,9 @@ spring:
 #    active: ${SPRING_PROFILES_ACTIVE:loc}
 #  datasource:
 #    driver-class-name: org.postgresql.Driver
-#    url: jdbc:postgresql://ana-uat.cluster-cftc1rptybbm.rds.cn-north-1.amazonaws.com.cn:5432/anauat
-#    username: anauser
-#    password: anatestuser
+#    url: jdbc:postgresql://xxxxx/anauat
+#    username: xx
+#    password: xx
 
 #mybatis:
 #  typeAliasesPackage: com.adidas.auth.job.entity
